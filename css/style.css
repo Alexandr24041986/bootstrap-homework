@@ -1,0 +1,20 @@
+@import "bootstrap.js"
+@import "bootstrap.css"
+
+
+.container{
+	margin-top: 100px;
+}
+
+.col-lg-4{
+	float:left;
+	padding-right: 0;
+
+}
+
+
+
+legend {
+	color: #d85050;
+	border-bottom: 1px solid #d65454;
+}
